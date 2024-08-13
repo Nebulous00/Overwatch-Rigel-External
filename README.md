@@ -31,7 +31,7 @@ Open the protected example.vmp.exe file as admin(or w,e it was renamed to), open
 
 If it doesn't work for you, try a few times, the GetGlobalKey function might not work for some PCs.
 
-## pics
+# Pics
 ![FA07A5F672BDF0522FB8E82F7B8626A5](https://github.com/Lynnette177/Rigel-Overwatch-External/assets/68948483/f24c521c-6816-4953-bdc0-4522dbb69346)
 ![5786A2EE4E1159C015052BF1A68798EF](https://github.com/Lynnette177/Rigel-Overwatch-External/assets/68948483/c33db943-0e63-400f-95ae-3ae2395bfad8)
 ![DEFE72589F405B9B81695DB20B919DBD](https://github.com/Lynnette177/Rigel-Overwatch-External/assets/68948483/ad2d49ea-b7a8-4185-bd3f-4e980837ffc7)
